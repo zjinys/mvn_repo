@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.alibaba.api</groupId>
+  <artifactId>taobao-sdk-java-auto</artifactId>
+  <versioning>
+    <release>20160607</release>
+    <versions>
+      <version>20160607</version>
+    </versions>
+    <lastUpdated>20170912014021</lastUpdated>
+  </versioning>
+</metadata>
